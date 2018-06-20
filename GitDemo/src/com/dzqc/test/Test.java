@@ -12,10 +12,17 @@ public class Test {
 		
 	}
 	/**
-	 * 添加methodA方法
+	 * 添加methodB方法
 	 */
 	
 	public void methodB() {
+		
+	}
+	/**
+	 * 添加methodC方法
+	 */
+	
+	public void methodC() {
 		
 	}
 
